@@ -1,16 +1,13 @@
-## Hi there 👋
+Bem vindo ao meu perfil⚽ 
 
-<!--
-**Matheus7743/matheus7743** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Meu nome é Matheus Miranda Eduardo Rodrigues
 
-Here are some ideas to get you started:
+Estou usando alura para aprioramento estudantil
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Estou aprendedo a me desenvolver no javaScript
+
+Utilizo esse espaço para minha organização e compartilhamento dos meus projetos escolares
+
+VOCÊ PODE ENTRAR EM CONTATO COMIGO  @matias.rodri.edu@gmail.com
+
+![](https://media.tenor.com/aYfOjHNLRcQAAAAi/fenandofilho-pernambuco.gif)
